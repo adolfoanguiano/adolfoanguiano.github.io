@@ -17,27 +17,21 @@ Con una trayectoria centrada en la revisión de relaciones contractuales y preve
 
 ## 🚀 Portafolio de Proyectos 
 
-### 🛢️ [Optimización de Inversiones - Sector Petrolero](https://github.com/adolfoanguiano/tripleten)
+### 🛢️ [Optimización de Inversiones - Sector Petrolero](https://github.com/adolfoanguiano/nuevos_pozos_petroleros)
 * **Objetivo:** Identificar las mejores regiones para la apertura de 200 pozos petroleros maximizando el beneficio.
 * **Tecnologías:** Python, Scikit-learn, Pandas, Bootstrapping.
 * **Resultado:** Desarrollé un modelo de ML que predijo reservas y calculó probabilidades de pérdida por región.
 
-### 🏦 [Predicción de Retención de Clientes - Sector Bancario](https://github.com/adolfoanguiano/tripleten)
-* **Objetivo:** Predecir la probabilidad de abandono de clientes para implementar estrategias de retención.
+### 🏦 [Predicción del éxito comercial - Sector Comercial](https://github.com/adolfoanguiano/juegos_exitosos)
+* **Objetivo:** Predecir el éxito comercial de un juego, con la finalidad de planear campañas publicitarias.
 * **Tecnologías:** Python, Machine Learning (Clasificación), Pandas.
-* **Resultado:** Creé un modelo predictivo con métricas de precisión validadas para identificar clientes en riesgo.
-
-### 📞 [Sistema de Recomendación - Telecomunicaciones](https://github.com/adolfoanguiano/tripleten)
-* **Objetivo:** Analizar el consumo de usuarios para recomendar planes de telefonía optimizados.
-* **Tecnologías:** Python, Machine Learning, Análisis de Comportamiento.
-* **Resultado:** Clasificación de usuarios según patrones de uso, facilitando la transición a planes adecuados.
+* **Resultado:** Clasificación de los juegos y sus géneros, facilitando saber cuales son las tendencias.
 
 ---
 
 
 ## 📫 Contacto
 * **LinkedIn:** [linkedin.com/in/adolfo-anguiano-vazquez](https://linkedin.com/in/adolfo-anguiano-vazquez) 
-* **GitHub:** [github.com/adolfoanguiano](https://github.com/adolfoanguiano) 
 * **Email:** adolfoanguiano@hotmail.com 
 
 ---
